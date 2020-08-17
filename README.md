@@ -10,7 +10,7 @@
 
 ---
 
-![Raul's github stats](https://github-readme-stats.raulxiloj.vercel.app/api?username=raulxiloj&theme=tokyonight&show_icons=true)
+![Raul's github stats](https://github-readme-stats.raulxiloj.vercel.app/api?username=raulxiloj&theme=graywhite&show_icons=true)
 
 ### Connect with me:
 
