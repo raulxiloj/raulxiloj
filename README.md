@@ -2,13 +2,11 @@
 
 ### Hi there, I'm [Raul](https://raulxiloj.github.io/personal-website/#/home) 👋
 
-## I'm a computer science student
+## I'm a Software Engineer
 
-- ⚡ I’m currently working on college projects!
-- 📚 Trying to learn something new everyday.
+- ⚡ I’m currently working with microservices made with Go and Kubernetes.
+- 📚 Continue learning to improve my skills
 - 💬 I like to share what I know so if I can help you, don't doubt in asking me :)
-- 🥅 2020 Goals: Contribute more to Open Source projects
-<!-- - 😜 Fun fact: I love to draw and play guitar / drums -->
 
 ---
 
@@ -23,9 +21,11 @@
 <br/>
 
 ### Languages and Tools:
-<!-- FrontEnd --->
+
+<img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -34,8 +34,11 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png">
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+
 
 [website]: https://raulxiloj.github.io/personal-website/#/home
 [twitter]: https://twitter.com/raaulxiloj
 [instagram]: https://www.instagram.com/raaulxiloj/
-[linkedin]: https://www.linkedin.com/in/raul-xiloj-0674a0195/
+[linkedin]: https://www.linkedin.com/in/raul-xiloj/
