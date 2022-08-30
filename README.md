@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=raulxiloj&color=blue)
 
-### Hi there, I'm [Raul](https://raulxiloj.github.io/personal-website/#/home) 👋
+### Hi there, I'm Raul Xiloj 👋
 
 ## I'm a Software Engineer
 
-- ⚡ I’m currently working with microservices made with Go and Kubernetes.
-- 📚 Continue learning to improve my skills
-- 💬 I like to share what I know so if I can help you, don't doubt in asking me :)
+- ⚡ I’m currently working at Yalutec as Backend Developer 
+- 📚 I'm constantly learning, right now I'm interested in Cloud and Devops
+- 💬 I like to share what I have been learning on my own or in my work, so if I can help you don't doubt on send a message :) 
 
 ---
 
@@ -14,7 +14,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
