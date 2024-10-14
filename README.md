@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Raul  
 
-I'm a Software Engineer passionate about building scalable and robust backend systems. **DevOps and Cloud Enthusiast.**
+I'm a Software Engineer passionate about building scalable and robust backend systems. **DevOps, Cloud and LLM Enthusiast.**
 
 ## 💻 Expertise
 
@@ -10,6 +10,7 @@ My areas of expertise include:
 - TypeScript
 - JavaScript
 - Golang
+- Python
 - AWS Services
 - Docker & K8S
 - React
